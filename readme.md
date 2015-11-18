@@ -1,4 +1,6 @@
-# A collection of interesting articles and tools related to development...
+# Bookmarks
+
+A collection of interesting articles and tools related to development...
 
 - [DevOps](#devops)
 - [Back-end](#back-end)
