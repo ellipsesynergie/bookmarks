@@ -35,4 +35,8 @@ A collection of interesting articles and tools related to development...
 
 ## JavaScript
 
+### Tools
+
+- [Substance](http://substance.io/) (Substance is a JavaScript library for web-based content editing. It provides building blocks for realizing custom text editors.)
+
 ## CSS
