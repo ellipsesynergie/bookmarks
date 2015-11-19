@@ -31,6 +31,8 @@ A collection of interesting articles and tools related to development...
 - [Handling 1 Billion requests a week with Symfony2](http://labs.octivi.com/handling-1-billion-requests-a-week-with-symfony2/)
 - [Nosql data modeling techniques](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
 - [How we cut down memory usage by 82% (Redis)](http://labs.octivi.com/how-we-cut-down-memory-usage-by-82/)
+- [Data compression in InnoDB for text and blob fields (MySQL)](https://www.percona.com/blog/2012/05/30/data-compression-in-innodb-for-text-and-blob-fields/)
+
 
 ## Front-end
 
