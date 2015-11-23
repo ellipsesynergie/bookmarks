@@ -15,6 +15,7 @@ A collection of interesting articles and tools related to development...
 ### Articles
 
 - [Rebuilding Our Infrastructure with Docker, ECS, and Terraform](https://segment.com/blog/rebuilding-our-infrastructure)
+- [Ansible Performance Tuning](http://www.ansible.com/blog/ansible-performance-tuning)
 
 ### Tools
 
