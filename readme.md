@@ -90,4 +90,11 @@ A collection of interesting articles and tools related to development...
 - [Installing Zend Z-Ray on Homestead](https://laravel-news.com/2015/08/installing-zend-z-ray-on-homestead/)
 
 ## PHP Packages
+
+### Tools
+
+- [Composer package security issues checker](https://security.sensiolabs.org/)
+
+### Packages
+
 - [Spatie packages](https://spatie.be/opensource)
