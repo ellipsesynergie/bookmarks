@@ -19,7 +19,7 @@ A collection of interesting articles and tools related to development...
 
 ### Tools
 
-- [DataDog](https://www.datadoghq.com) (Your servers, your clouds, your metrics, your apps, your team. Together.)	
+- [DataDog](https://www.datadoghq.com) (Your servers, your clouds, your metrics, your apps, your team. Together.)
 
 ## Back-end
 
@@ -43,6 +43,7 @@ A collection of interesting articles and tools related to development...
 
 ### Tools
 
+- [Responsify](http://responsifyjs.space/) (A jquery plugin that makes images truly responsive)
 - [Substance](http://substance.io/) (Substance is a JavaScript library for web-based content editing. It provides building blocks for realizing custom text editors.)
 
 ## CSS
