@@ -12,10 +12,10 @@ A collection of interesting articles and tools related to development...
 - [CSS](#css)
 - [SSL](#ssl)
 - [DNS](#dns)
-- [Continuous Integration](#ContinuousIntegration)
-- [Code Architecture](#CodeArchitecture)
-- [Debug and testing](#Debugandtesting)
-- [PHP Packages](#PHPPackages)
+- [Continuous Integration](#continuous-integration)
+- [Code Architecture](#code-architecture)
+- [Debug and testing](#debug-and-testing)
+- [PHP Packages](#php-packages)
 
 ## DevOps
 
