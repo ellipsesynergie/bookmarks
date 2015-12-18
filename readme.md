@@ -10,6 +10,12 @@ A collection of interesting articles and tools related to development...
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [CSS](#css)
+- [SSL](#ssl)
+- [DNS](#dns)
+- [Continuous Integration](#ContinuousIntegration)
+- [Code Architecture](#CodeArchitecture)
+- [Debug and testing](#Debugandtesting)
+- [PHP Packages](#PHPPackages)
 
 ## DevOps
 
@@ -39,6 +45,7 @@ A collection of interesting articles and tools related to development...
 
 ### Tools
 
+- [Mailtrap](https://mailtrap.io/)
 - [Is not spam](http://isnotspam.com/) (Spam tester)
 - [Mail Tester](http://www.mail-tester.com/) (Testez l'indésirabilité (spam) de vos emails)
 
@@ -90,8 +97,6 @@ A collection of interesting articles and tools related to development...
 ## Debug and testing
 
 ### Tools
-
-- [Mailtrap](https://mailtrap.io/)
 
 ### Articles
 - [Debugging Laravel Apps on Homestead (PhpStorm + Xdebug + Postman setup)](http://blog.elenakolevska.com/debugging-laravel-on-homestead/)
