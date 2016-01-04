@@ -26,6 +26,7 @@ A collection of interesting articles and tools related to development...
 
 ### Tools
 
+- [AWS Shell](https://github.com/awslabs/aws-shell) (The interactive productivity booster for the AWS CLI)
 - [DataDog](https://www.datadoghq.com) (Your servers, your clouds, your metrics, your apps, your team. Together.)
 
 ## Back-end
