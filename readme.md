@@ -89,6 +89,7 @@ A collection of interesting articles and tools related to development...
 
 - [Hexagonal Architecture](http://fideloper.com/hexagonal-architecture)
 - [The Clean Architecture](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [Martin Fowler website](http://martinfowler.com/) : Everything about patterns, refactoring & object-oriented development
 
 ## GIT
 
