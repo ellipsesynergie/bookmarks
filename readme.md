@@ -17,6 +17,7 @@ A collection of interesting articles and tools related to development...
 - [Debug and testing](#debug-and-testing)
 - [PHP Packages](#php-packages)
 - [Documentation tools and services](#documentation-tools-and-services)
+- [Cloud computing](#cloud-computing)
 
 ## DevOps
 
@@ -125,3 +126,10 @@ A collection of interesting articles and tools related to development...
 
 - [Apiary - Powerful API Design Stack](https://apiary.io/)
 - [Api blue print](https://apiblueprint.org/)
+
+## Cloud computing
+
+### Articles
+
+- [The Netflix Simian Army](http://techblog.netflix.com/2011/07/netflix-simian-army.html)
+- [Chaos Monkey Released Into The Wild](http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html)
