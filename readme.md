@@ -97,6 +97,7 @@ A collection of interesting articles and tools related to development...
 ### Articles
 
 - [How to Rebase a Pull Request](https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request)
+- [Merging vs. Rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing/)
 
 ## Debug and testing
 
