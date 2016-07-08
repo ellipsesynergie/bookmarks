@@ -18,6 +18,7 @@ A collection of interesting articles and tools related to development...
 - [PHP Packages](#php-packages)
 - [Documentation tools and services](#documentation-tools-and-services)
 - [Cloud computing](#cloud-computing)
+- [Dev tools](#dev-tools)
 
 ## DevOps
 
@@ -134,3 +135,9 @@ A collection of interesting articles and tools related to development...
 
 - [The Netflix Simian Army](http://techblog.netflix.com/2011/07/netflix-simian-army.html)
 - [Chaos Monkey Released Into The Wild](http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html)
+
+## Dev tools
+
+### Articles
+
+- [Shrinking Vagrant Linux Boxes](http://andrewdeponte.com/2013/10/29/shrinking-vagrant-linux-boxes.html)
